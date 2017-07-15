@@ -3,4 +3,4 @@ initial
 
 Hi humans!
 
-Meteors here, I like programming.
+Meteor here, I like programming.
